@@ -7,7 +7,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class csltdSite extends WebSite {
-
     // Logger
     private static final Logger log = LoggerFactory.getLogger(csltdSite.class);
 
